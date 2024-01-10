@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "David Wavid",
+  "avatar": "nHbbWkGibWIljIiaa",
+  "preferredColor": "forest",
+  "language": "python.3",
+  "game": "table-tennis",
+  "run": "python3 -u ./main.py"
+}
